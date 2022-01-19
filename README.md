@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - https://img.shields.io/badge/-[기술이름]-[컬러코드]?style=flat&logo=[아이콘이름]
 -->
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=left><h1>📚 STACKS</h1></div>
 
-<div align=center> 
+<div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
