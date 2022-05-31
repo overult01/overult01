@@ -40,11 +40,13 @@ Here are some ideas to get you started:
   <br>
   
 <div align=left><h2>MY EPRIENCES</h2></div>
+<div align=left>
   <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white"> 
   <img src="https://img.shields.io/badge/JPA-25A162?style=for-the-badge&logo=JPA&logoColor=white">   
 </div>
-
+<br>
+  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=overult01&theme=yeblu&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=overult01&layout=compact&theme=yeblu)
